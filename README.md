@@ -75,7 +75,6 @@ const jisan = {
 
 | Project | Description | Stack | Links |
 | :--- | :--- | :--- | :--- |
-| **🚨 NearER** | Intelligent emergency response & hospital routing ecosystem with real-time bed tracking and AI triage. | `Next.js 16` `Supabase` `SerpApi` `Gemini` | [Live App](https://nearer-app.vercel.app) • [Repository](https://github.com/officialjisanhalder-art/near-er) |
 | **🎬 Zorynth** | High-performance cyberpunk video streaming platform with responsive media catalogs. | `React` `Vite` `Supabase` `TypeScript` | [Repository](https://github.com/officialjisanhalder-art/zorynth) |
 | **📊 DSA Algorithm Visualizer** | Interactive algorithmic simulator visualizing Bubble, Selection, Merge & Quick sort in real-time. | `JavaScript` `HTML5 Canvas` `CSS3` | [Repository](https://github.com/officialjisanhalder-art/dsa-algorithm-visualizer) |
 | **💬 ChatWave** | Real-time bi-directional chat application with dynamic rooms and typing telemetry. | `Node.js` `Express` `Socket.io` | [Repository](https://github.com/officialjisanhalder-art/chat-app) |
