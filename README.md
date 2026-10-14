@@ -27,7 +27,6 @@ const jisan = {
 ```
 
 - 💡 **What I do:** I architect modern, high-performance web applications, interactive 3D interfaces, and resilient full-stack systems.
-- 🛠️ **Recent highlights:** Built **[NearER](https://nearer-app.vercel.app)** — an intelligent emergency response & hospital routing network powered by real-time Google data, Supabase WebSockets, and AI triage.
 - 🎯 **Daily driver:** TypeScript, React/Next.js, Tailwind CSS, Node.js, and PostgreSQL.
 
 ---
