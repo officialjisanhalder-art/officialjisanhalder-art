@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://craftedbyjisan.xyz"><b>🌐 Portfolio Website</b></a> •
-  <a href="mailto:official.jisanhalder@gmail.com"><b>📫 Email Me</b></a> •
+  <a href="mailto:official.jisanhalder@gmail.com"><b>📫 Email Me</b></a> 
 </p>
 
 ---
